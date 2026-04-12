@@ -10,7 +10,7 @@ export default function App() {
       </div>
       <footer>
         This project was coded by Renee Singh and is {""}
-        <a href="https://github.com/renxss/react-weather-app2" target="_blank">
+        <a href="https://github.com/renxss/react-weather-app2" target="_blank" rel="noopener noreferrer">
           open-sourced on Github
         </a>
       </footer>
